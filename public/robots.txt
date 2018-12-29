@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://liguoqing.name/sitemap.xml
+Sitemap: https://liguoqing.name/sitemap.xml
