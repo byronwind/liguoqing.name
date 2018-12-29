@@ -1,4 +1,4 @@
-baseURL = "http://liguoqing.name"
+baseURL = "https://liguoqing.name"
 languageCode = "en"
 defaultContentLanguage = "zh-cn"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "离离"
@@ -56,8 +56,8 @@ copyright = "LGQ"            # default: author.name ↓        # 默认为下面
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
   logoTitle = "离离"        # default: the title value    # 默认值: 上面设置的title值
-  keywords = ["Hugo", "theme","even"]
-  description = "Hugo theme even example site."
+  keywords = ["Hugo", "Blog","liguoqing"]
+  description = "My personal blog about art and tech."
 
   # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
   archivePaginate = 5
